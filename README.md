@@ -58,6 +58,25 @@ Numbered list:
 	1. subitem 2
 	
 	
+## Syntax Highlighting
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
 
+## Tables
 
+Mesi | Incassi in € | Q.tà
+----------|----------|------
+Gennaio| 100 | 10
+Febbraio| 150 | 15
+Marzo|130 | 13
+Aprile|135 | 13
+...|...|...
+Dicembre|185|16
+
+## End
 
